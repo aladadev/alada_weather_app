@@ -1,6 +1,6 @@
 # alada_weather_app
 
-A new Flutter project.
+A simple weather app with the implementation of openweather API and GETX State Management
 
 ## Getting Started
 
